@@ -7,6 +7,7 @@
 **避免**使用缩写，如果一定要使用，就谨慎使用。同时，应该保留一个标准缩写的列表，并且在使用时保持一致。  
 **避免**使用长名字（最好不超过 15 个字母）。  
 **避免**使用相似或者仅在大小写上有区别的名字。  
+**必须**使异步方法的结尾为Async。
 #### 大小写规则
 ![体系结构](images/name.png)  
 参考：[https://msdn.microsoft.com/zh-cn/library/x2dbyw72(v=vs.71).aspx](https://msdn.microsoft.com/zh-cn/library/x2dbyw72(v=vs.71).aspx "Capitalization Styles")
@@ -50,4 +51,6 @@
 - 拒绝日志式注释，源代码管理工具中均能查到变更日志。
 - 注释的代码，避免让注释过的代码保留在代码文件中，源代码管理中在任何时刻都可以找回。
 - 只有能让别人读懂的注释才是合格的注释。
-- 
+###
+了解更多：[http://kb.cnblogs.com/page/206954/](http://kb.cnblogs.com/page/206954/)
+### 编码约定
