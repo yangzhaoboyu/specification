@@ -70,4 +70,4 @@
 - 将 Visual Studio 警告等同于错误。
 - 避免复杂的`Switch`语句，避免嵌套 `Switch`，`Switch` 语句必须提供 `Default`。
 - 避免嵌套过深的`If`语句。
-- 复杂的if条件尽可能封装成方法。
+- 长函数切开，尽可能将switch语句、if语句等提炼到独立函数中。
