@@ -6,8 +6,8 @@
 #### 命名约定
 **避免**使用缩写，如果一定要使用，就谨慎使用。同时，应该保留一个标准缩写的列表，并且在使用时保持一致。  
 **避免**使用长名字（最好不超过 15 个字母）。  
-**避免**使用相似或者仅在大小写上有区别的名字。
-####大小写规则
+**避免**使用相似或者仅在大小写上有区别的名字。  
+#### 大小写规则
 ![体系结构](images/name.png)  
 参考：[https://msdn.microsoft.com/zh-cn/library/x2dbyw72(v=vs.71).aspx](https://msdn.microsoft.com/zh-cn/library/x2dbyw72(v=vs.71).aspx "Capitalization Styles")
 #### 缩写
